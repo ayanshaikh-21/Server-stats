@@ -6,6 +6,9 @@ This project is a Linux shell script that analyzes basic server performance stat
 ## Project URL
 https://github.com/ayanshaikh-21/Server-stats
 
+## Extra
+https://roadmap.sh/projects/server-stats
+
 ## Features
 - CPU usage
 - Memory usage
