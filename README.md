@@ -3,7 +3,8 @@
 ## Description
 This project is a Linux shell script that analyzes basic server performance stats.
 
-## Project link - https://github.com/ayanshaikh-21/Server-stats
+## Project URL
+https://github.com/ayanshaikh-21/Server-stats
 
 ## Features
 - CPU usage
